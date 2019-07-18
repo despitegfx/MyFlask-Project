@@ -1,0 +1,212 @@
+body {margin:0; 
+background-color:lightblue;
+font-family:verdana; }
+
+#header {background-color:darkcyan; 
+	color:white; 
+	width:100%;
+	text-align:left;
+	border-radius:5px;
+	}
+
+	
+ul#menu	{
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	float:right;
+	}
+
+ul#menu li{
+	display:inline;
+	}
+
+
+ul#menu li a {font-size:15px;
+	color:white;
+	padding:15px 40px;
+	text-decoration:none;
+	padding:15px 20px; 
+	}
+
+ul#menu li a:hover{color:cyan;}
+
+
+#content {background-color:none;
+	text-align:center; 
+	color:black; 
+	width:65%;
+	height:1000px;
+	float:left; 
+	}
+
+#content1 {background-color:none;
+	text-align:left; 
+	color:black; 
+	width:15%;
+	height:1000px;
+	float:left;
+	  
+	}
+#content1 h1{background-color:darkcyan;
+	color:cyan; border-radius:5px;}
+#content1 a{text-decoration:none;
+		color:darkcyan;}
+#content1 a:hover{color:cyan;}
+
+
+#content2 {background-color:none;
+	text-align:left; 
+	color:black; 
+	width:20%;
+	height:1000px;
+	float:left; 
+	}
+#content2 h1{background-color:darkcyan;
+	color:cyan; border-radius:5px;}
+#content2 a{text-decoration:none;
+		color:darkcyan;}
+#content2 a:hover{color:cyan;}
+
+
+#title {text-align:center; 
+	color:darkcyan;
+	}
+
+
+#footer {background-color:#2e2e2e; 
+	color:grey; 
+	width:100%;
+	height:120px; 
+	text-align:center;
+	float:right;
+	border-radius:5px;
+	} 
+
+
+#info1 {background-color:none;
+	text-align:left; 
+	color:black; 
+	width:34%;
+	height:300px;
+	float:left;
+	}
+
+#info1 h2{background-color:darkcyan;
+	color:cyan;}
+#info1 a{text-decoration:none;
+		color:darkcyan;}
+#info1 a:hover{color:cyan;}
+
+#info2 {background-color:none;
+	text-align:left; 
+	color:black; 
+	width:33%;
+	height:300px;
+	float:left; 
+	}
+#info2 h2{background-color:darkcyan;
+	color:cyan;}
+#info2 a{text-decoration:none;
+		color:darkcyan;}
+#info2 a:hover{color:cyan;}
+
+#info3 {background-color:none;
+	text-align:left; 
+	color:black; 
+	width:33%;
+	height:300px;
+	float:left; 
+	}
+
+#info3 h2{background-color:darkcyan;
+	color:cyan;}
+#info3 a{text-decoration:none;
+		color:darkcyan;}
+#info3 a:hover{color:cyan;}
+
+
+#course table {background-color:lightcyan; 
+	color:black;
+	width:100% 
+	} 
+#course th{background-color:darkcyan;
+	 color:cyan;}
+
+
+#contentform {background-color:none;
+	text-align:center;
+	color:black; 
+	float:none; 
+	}
+
+#fine1 {background-color:none;
+	text-align:center; 
+	width:34%;
+	height:600px;
+	float:left; 
+	}
+	
+#fine1 h2{background-color:darkcyan;
+		border-radius:5px;
+		color:cyan;
+		width:50%;
+		
+	
+		}
+
+#fine2 {background-color:none;
+	text-align:center; 
+	width:33%;
+	height:600px;
+	float:left; 
+	}
+	
+#fine2 h2{background-color:darkcyan;
+		border-radius:5px;
+		color:cyan;
+		width:50%;
+		
+	
+		}
+
+
+
+
+#fine3 {background-color:none;
+	text-align:center; 
+	width:33%;
+	height:600px;
+	float:left; 
+	}
+
+#fine3 h2{background-color:darkcyan;
+		border-radius:5px;
+		color:cyan;
+		width:50%;
+		
+	}
+
+
+#contentform {background-color:darkcyan;
+		border-radius:15px;
+		width:0%;
+		color:cyan;
+}
+
+	
+	
+#contentform button{background-color:darkcyan;
+		border-radius:15px;
+		width:50%;
+		color:cyan;
+}
+
+#contentform input{background-color:white;
+		text-align:center;
+		border-radius:15px;
+		color:darkcyan;
+		width:50%;
+}
+		
+		

@@ -1,0 +1,16 @@
+.page{
+    color: #000;
+}
+.page li{
+    text-decoration-color: black;
+}
+.page li a{
+    color: #000;
+}
+.page li a:hover{
+    background-color: tomato;
+}
+body{
+    padding-top:20px;
+    background-color: gray;
+}
